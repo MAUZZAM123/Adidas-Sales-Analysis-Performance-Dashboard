@@ -1,5 +1,7 @@
 # Adidas-Sales-Analysis-Performance-Dashboard
 
+![image alt](https://github.com/MAUZZAM123/Adidas-Sales-Analysis-Performance-Dashboard/blob/7795be0ec592d8b4ca7ab4c12811a90b8d2a1120/Screenshot%202025-12-03%20103959.png)
+
 Project Overview
 
 This project presents an interactive Adidas Sales Analysis Dashboard designed to analyze sales performance, profit trends, retailer contribution, and geographic distribution. The dashboard provides key business insights through data visualization and KPI tracking.
