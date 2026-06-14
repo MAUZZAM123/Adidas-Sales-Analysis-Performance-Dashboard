@@ -173,8 +173,8 @@ By leveraging Power BI's visualization capabilities and Power Query's data trans
 
 **Your Name**
 
-* LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mauzzamshaikh1104/)
-* GitHub: [Your GitHub Profile](https://github.com/MAUZZAM123)
+* LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mauzzamshaikh1104/)
+* GitHub: [GitHub Profile](https://github.com/MAUZZAM123)
 
 ---
 
