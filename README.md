@@ -1,6 +1,7 @@
 # 👟 Adidas Sales Analysis Dashboard
 
-![image alt](https://github.com/MAUZZAM123/Adidas-Sales-Analysis-Performance-Dashboard/blob/7795be0ec592d8b4ca7ab4c12811a90b8d2a1120/Screenshot%202025-12-03%20103959.png)
+<img width="1463" height="806" alt="image" src="https://github.com/user-attachments/assets/2b0d79a6-aeb5-435c-bfe3-25ec35c35d66" />
+
 
 ## 📌 Project Overview
 
